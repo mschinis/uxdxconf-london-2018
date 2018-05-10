@@ -72,3 +72,7 @@ UX Developer @ [Netguru](https://www.netguru.co/)
 - Disagreements - 2 reasons why people disagree with a research study
     1. Their own research shows something different
     2. or their personal opinions differ from research recommendations
+
+## Scott Riseborough
+Lead Software Developer @ [Apperio](https://www.apperio.com/)
+
