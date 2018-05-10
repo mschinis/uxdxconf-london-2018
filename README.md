@@ -139,5 +139,51 @@ Engineer @ [Fat Lama](https://fatlama.com/)
 ## Nik Crabtree
 Lead Principal Software Engineer @ [ASOS](http://www.asos.com/)
 
+- Why TDD? (Test Driven Development)
+    - Implicitly create and maintain a regression test suite that lets you know immediately if something breaks
+- The TDD cycle
+    - Write test that describes the functionality
+    - Make smallest change to make the test pass
+    - Restructure the code is written
+- Why ATDD (Acceptance Test Driven Development)
+    - Shared understanding
+    - Shared ownership
+    - Test first approach
+    - Results in: High quality software
+- Shared understanding
+    - There are no heroes *- The team is responsible*
+    - Everyone should feel a collective sense of pride
+    - There is no 'dev complete' - it's done when all stakeholders are happy
+    - There are no second class citizens in a high-trust team
+    - How do we make sure everyone understand what's required?
+        - Write requirements in a common format (Given-When-Then)
+        - Use ubiquitous language *- Explain exactly what a requirement means*
+        - Talk to people
+- The ATDD cycle
+    - Discuss
+        - Team asks questions
+        - Break down the feature
+        - May add new features
+        - Should establish a shared understanding
+    - Distil
+        - Formalise the acceptance criteria
+        - Use ubiquitous language
+        - Don't include implementation details
+        - Feature should now be ready to sprint
+    - Develop
+        - Transform ubiquitous language into tests
+        - Add technical scenarios
+    - Demo
+        - Already know it meets the requirements
+        - May perform exploratory testing
+- The big picture
+    1. idea
+    2. prototype
+    3. test
+    4. backlog
+    5. build
+    6. measure
+    7. iterate
+        
 ## Val Scholz
 Head of Growth @ [Revolut](https://www.revolut.com/)
