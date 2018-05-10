@@ -1,7 +1,7 @@
 # UXDX Conference London 2018
 
 ## Rory Madden
-UXDX Co-founder
+Co-founder @ [UXDX](https://uxdxconf.com/)
 
 **Highlight bottlenecks** - Optimise the whole, not the parts
 - Shared vision
