@@ -3,6 +3,8 @@
 ## Rory Madden
 Co-founder @ [UXDX](https://uxdxconf.com/)
 
+[Photos](./photos/rory-madden)
+
 **Highlight bottlenecks** - Optimise the whole, not the parts
 - Shared vision
     - Why: Shared vision helps both UX and Developers work towards the same goal
@@ -28,7 +30,7 @@ Co-founder @ [UXDX](https://uxdxconf.com/)
     - If there's no metric, what's the value of it?
 - Problems agreed
     - Solutions not there, but problems agreed.
-    - "Everybody loves progress but nobody likes change"
+    - *"Everybody loves progress but nobody likes change"*
 
 ## Nick Gill
 UX Researcher @ [Flyt.io](https://flyt.io/)
@@ -45,3 +47,28 @@ UX Researcher @ [Flyt.io](https://flyt.io/)
 - Document publicly - [notion.so](https://notion.so)
 - Seek out feedback from all stakeholders
 - Keep research fresh for every sprint
+
+## Piotr Silwa
+UX Developer @ [Netguru](https://www.netguru.co/)
+
+- Why do we need UX Research?
+    - To create & deliver a great product by discovering the client and their needs
+- Sprint phases
+    - Discover
+        - Field studdy
+        - User interview
+        - Steakholder interviews
+    - Explore
+        - Competitive analysis
+        - Design review
+        - Journey mapping & write user stories
+    - Test
+        - Usability testing
+        - Benchmark testing
+    - Listen
+        - Survey
+        - Analytics review
+        - Usability testing
+- Disagreements - 2 reasons why people disagree with a research study
+    1. Their own research shows something different
+    2. or their personal opinions differ from research recommendations
