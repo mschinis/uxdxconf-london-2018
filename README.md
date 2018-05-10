@@ -78,6 +78,8 @@ UX Developer @ [Netguru](https://www.netguru.co/)
 ## Scott Riseborough
 Lead Software Developer @ [Apperio](https://www.apperio.com/)
 
+[Photos](./photos/scott-riseborough)
+
 - Manual tests
     - Misconceptions
         1. Speed & Cost: Usually it's cheaper to explain something in person than code it
