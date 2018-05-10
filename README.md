@@ -135,3 +135,9 @@ Engineer @ [Fat Lama](https://fatlama.com/)
         - Know where you want your product to be in the future
         - Watch out for feature creep, especially 'quick fixes'
         - Make sure you're measuring the *right* thing
+
+## Nik Crabtree
+Lead Principal Software Engineer @ [ASOS](http://www.asos.com/)
+
+## Val Scholz
+Head of Growth @ [Revolut](https://www.revolut.com/)
