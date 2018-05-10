@@ -100,3 +100,36 @@ Lead Software Developer @ [Apperio](https://www.apperio.com/)
 ## Will Demaine
 Engineer @ [Fat Lama](https://fatlama.com/)
 
+- *"To build great products, start by building a great team."*
+    - Empower your employees
+        - Give people data and easy access to the data to make decisions
+    - Foster responsibility
+        - Let people know of their responsibility with the data
+        - Grow a blameless culture
+    - Let builders build
+    - Go cross-functional
+        - Build teams that can deliver everything across the stack.
+- What is going wrong, the wrong way?
+    - Building things on a whim that you have to support forever
+    - Locking yourself to architectural decisions
+    - Building things that are hard to remove
+    - Building things that are hard to build on top of
+- What is going wrong the right way?
+    - Being experiment-driven
+        - Have a hypothesis / goal metrics
+        - Build enough to test it (MV(iable)P vs ML(ovable)P)
+        - Don't get attached to products *- Easier said than done*
+- How can we go wrong the right way?
+    - Planning
+        - Engineers: Time spent planning is not wasted
+        - When building an MVP, plan the whole feature, then cut it back
+        - Decide on your success criteria before launching
+    - Go backwards
+        - Experiment quickly, kill ruthlessly
+        - A negative experiment is not a failure, celebrate them
+        - People care, but not as much as you think
+        - Don't be afraid to stick to your vision
+    - Have a north star
+        - Know where you want your product to be in the future
+        - Watch out for feature creep, especially 'quick fixes'
+        - Make sure you're measuring the *right* thing
