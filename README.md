@@ -51,6 +51,8 @@ UX Researcher @ [Flyt.io](https://flyt.io/)
 ## Piotr Silwa
 UX Developer @ [Netguru](https://www.netguru.co/)
 
+[Photos](./photos/piotr-silwa)
+
 - Why do we need UX Research?
     - To create & deliver a great product by discovering the client and their needs
 - Sprint phases
