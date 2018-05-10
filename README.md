@@ -1,5 +1,8 @@
 # UXDX Conference London 2018
 
+## Rory Madden
+UXDX Co-founder
+
 **Highlight bottlenecks** - Optimise the whole, not the parts
 - Shared vision
     - Why: Shared vision helps both UX and Developers work towards the same goal
@@ -27,3 +30,18 @@
     - Solutions not there, but problems agreed.
     - "Everybody loves progress but nobody likes change"
 
+## Nick Gill
+UX Researcher @ [Flyt.io](https://flyt.io/)
+
+- Weekly fast sprints
+    - Friday PM: Problem scrope + planning
+    - Monday: Ask the expert + user journeys
+    - Tuesday: J/P/G, Crazy 8s, Prototypes v1
+        - Jobs to be done / Pains to complete / Gains from completing, Quick prototypes
+    - Wednesday: Internal tests, Prototypes v2
+    - Thursday: External tests, iterate on the fly
+    - Friday AM: Present findings, Open forum
+        - Discuss findings and ideas with all stakeholders, get feedback
+- Document publicly - [notion.so](https://notion.so)
+- Seek out feedback from all stakeholders
+- Keep research fresh for every sprint
