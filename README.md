@@ -78,3 +78,19 @@ UX Developer @ [Netguru](https://www.netguru.co/)
 ## Scott Riseborough
 Lead Software Developer @ [Apperio](https://www.apperio.com/)
 
+- Manual tests
+    - Misconceptions
+        1. Speed & Cost: Usually it's cheaper to explain something in person than code it
+    - Bad
+        1. Single point of failure
+        2. Limited scope
+        3. Fatigue
+        4. Not perfectly reproducible
+- Automated tests
+    - Achieve more
+    - It can be much more interesting
+    - Controlled environment - Always reproducible
+- Don't underestimate manual testers
+    - Anything that requires users to use, a user should test
+- Automation should not totally replace manual test
+- Encourage automated tests and users to understand automated tests
