@@ -187,3 +187,25 @@ Lead Principal Software Engineer @ [ASOS](http://www.asos.com/)
         
 ## Val Scholz
 Head of Growth @ [Revolut](https://www.revolut.com/)
+
+- How to build products that people love
+    1. Identify big opportunities
+        - There's always massive opportunities in the market. Focus on current or future trends. Big problems.
+        - e.g. saving money, easy access to crypto, global medical I.D, Mass transportation
+    2. Understand the problem
+        - Be the best in that domain. You need to have more knowledge than 10 year old experts. Dig deeper to the root of the problem.
+        - e.g. International money transfers, Why is it hard to solve?, How does the market work?
+    3. Design a solution that's 100x better
+        - People tend to overvalue their existing solution by 10x
+        - Companies tend to overvalue their solution by 10x
+    4. Build virality into your product
+        - Always think about how to leverage the network of your customers and partners
+        - Hyper growth companies are able to leverage the network effect to accelerate their growth
+        - e.g. Waiting list, Feature unlock, Referral systems, Partnerships
+    5. Create an engagement strategy
+        - Communication is one of the most important parts of every product
+        - Never forget to think about the entire user journey
+        - e.g. Feature adoption, Feature engagement, Feature re-engagement
+    6. Announce it big-time
+        - Every bigger product launch at Revolut goes through a standardised process for launch.
+        - This includes PR, Website, Blog, Social Media, Email Newsletter, Push notifications, Campaigns
