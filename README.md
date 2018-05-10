@@ -100,6 +100,8 @@ Lead Software Developer @ [Apperio](https://www.apperio.com/)
 ## Will Demaine
 Engineer @ [Fat Lama](https://fatlama.com/)
 
+[Photos](./photos/will-demaine)
+
 - *"To build great products, start by building a great team."*
     - Empower your employees
         - Give people data and easy access to the data to make decisions
