@@ -96,3 +96,7 @@ Lead Software Developer @ [Apperio](https://www.apperio.com/)
     - Anything that requires users to use, a user should test
 - Automation should not totally replace manual test
 - Encourage automated tests and users to understand automated tests
+
+## Will Demaine
+Engineer @ [Fat Lama](https://fatlama.com/)
+
