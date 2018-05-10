@@ -139,6 +139,8 @@ Engineer @ [Fat Lama](https://fatlama.com/)
 ## Nik Crabtree
 Lead Principal Software Engineer @ [ASOS](http://www.asos.com/)
 
+[Photos](./photos/nik-crabtree)
+
 - Why TDD? (Test Driven Development)
     - Implicitly create and maintain a regression test suite that lets you know immediately if something breaks
 - The TDD cycle
@@ -187,6 +189,8 @@ Lead Principal Software Engineer @ [ASOS](http://www.asos.com/)
         
 ## Val Scholz
 Head of Growth @ [Revolut](https://www.revolut.com/)
+
+[Photos](./photos/val-scholz)
 
 - How to build products that people love
     1. Identify big opportunities
